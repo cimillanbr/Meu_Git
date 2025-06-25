@@ -1,0 +1,4 @@
+usando cat para crear mi segundo archivo
+aqui puedo guardar por ejemplo una secuencia de códigos utilizados
+para salir solo debo presionar CTRL+D
+Hasta luego
