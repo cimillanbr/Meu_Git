@@ -1,0 +1,2 @@
+Posso mesclar as branches usando merge, criando copias dos arquivos de uma branche em outra
+ou também posso fusionar as branches com rebase, deixando somente os arquivos editados na branche a fusionar
